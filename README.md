@@ -1,5 +1,5 @@
 # snex9x-gtk
-Snes9x 1.53 source code plus a gtk port from BearOso, originaly at https://code.google.com/archive/p/snes9x-gtk/
+Snes9x 1.53 source code plus a gtk+ port from BearOso; originally from https://code.google.com/archive/p/snes9x-gtk/
 -----
 A GTK+ port of the Snes9x emulator. New code not originating from Snes9x is licensed under both the GNU LGPL 2.1 and the Snes9x license.
 
