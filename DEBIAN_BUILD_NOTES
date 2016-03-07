@@ -1,0 +1,34 @@
+Extract snes-1.53-src.tar.bz2
+-----
+-Debian packages required to build snes9x-153-gtk:
+  g++
+  nasm
+  libgtk2.0-dev
+  libxml2-dev
+  libsdl-gfx1.2-dev
+  libxv-dev
+-----
+Build Notes
+-From snes9x-1.5.3-src/gtk/ run:
+  ./configure --with-opengl --with-netplay
+-Validate the output of the configure script (there should be no errors):
+
+  Snes9x will build with support for the following:
+
+      GTK+ 2.0
+      ALSA
+      PulseAudio
+      OpenGL
+      XVideo
+      XRandR
+      Joysticks
+      NetPlay
+
+-Make the config by running:
+  make
+-After a sucessful make, there should be a snes9x-gtk binary in the current path.
+-----
+PulseAudio Support
+-Go to: Options -> Sound (tab on the left) -> Sound Driver -> PulseAudio (dropdown menu)
+-----
+Icons are in snes9x-1.5.3-src/gtk/data/
