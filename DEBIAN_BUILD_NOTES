@@ -27,8 +27,8 @@ Build Notes
 -Make the config by running:
   make
 -After a sucessful make, there should be a snes9x-gtk binary in the current path.
--You can either choose to install the program using " sudo make install" or 
-  just run it from the build directory.
+-You can either choose to install the program using "sudo make install" or 
+ just run it from the build directory.
 -----
 PulseAudio Support
 -Go to: Options -> Sound (tab on the left) -> Sound Driver -> PulseAudio (dropdown menu)
