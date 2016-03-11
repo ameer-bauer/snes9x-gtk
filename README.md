@@ -8,7 +8,6 @@ A GTK+ port of the Snes9x emulator.
 -BearOso's notes can be found here: http://www.snes9x.com/phpbb3/viewtopic.php?t=3703
 
 **New code not originating from Snes9x is licensed under both the GNU LGPL 2.1 and the Snes9x license.**
-
 **The Snes9x core and original Snes9x code is licensed as follows:**
 
 -Snes9x - Portable Super Nintendo Entertainment System (TM) emulator.
