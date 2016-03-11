@@ -1,5 +1,5 @@
 # snex9x-gtk
-Snes9x v1.53 source code plus a gtk+ port by Brandon Wright {bearoso@gmail.com}
+Snes9x v1.53 source code plus a gtk+ port (rev 81) by Brandon Wright
 -----
 A GTK+ port of the Snes9x emulator.
 
